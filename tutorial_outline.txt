@@ -23,6 +23,16 @@ Order of scripts:
 	3. apply_subtraction_image.py
 
 		Create and apply a subtraction image.
+		
+Assignment: 
+
+	Find one of the shear zero or shear 45 images that, when cleaned by removing hot pixels 
+	and corrected with a subtraction image, shows bowtie images more
+	clearly. Turn in the "before" and "after" .png images.
+	
+	Note: if it's easier, you may choose to work (in colab, for example) from the python 
+	notebook named bowtie_tutorial_day_1.ipynb which contains all of the same information as 
+	the python scripts listed above.
 
 DAY 2
 
